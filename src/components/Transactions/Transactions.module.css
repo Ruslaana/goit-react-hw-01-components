@@ -10,10 +10,14 @@
   text-align: center;
 }
 
+.row:nth-child(2n) {
+  background-color: lightgray;
+}
+
 .type,
 .amount,
 .currency {
   color: black;
   text-align: center;
-  padding: 5px;
+  padding: 5px 20px;
 }
