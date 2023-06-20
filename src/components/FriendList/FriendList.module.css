@@ -7,14 +7,6 @@
   align-items: center;
 }
 
-.online {
-  background-color: green;
-}
-
-.offline {
-  background-color: red;
-}
-
 .name {
   font-size: 18px;
 }

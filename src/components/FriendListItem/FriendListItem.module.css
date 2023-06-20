@@ -27,3 +27,11 @@
   width: 100%;
   height: auto;
 }
+
+.online {
+  background-color: green;
+}
+
+.offline {
+  background-color: red;
+}
